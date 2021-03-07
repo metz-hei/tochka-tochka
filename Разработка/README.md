@@ -1,6 +1,5 @@
 # Разработка
-
-[Есть ли Definition of Ready?](https://www.notion.so/Definition-of-Ready-e71ab786fb154b398bedc68a089e7c54)
+[Есть ли Definition of Ready?](../dor)
 
 [Есть ли Definition Of Done?](https://www.notion.so/Definition-Of-Done-97979268cae34f9eb46407d9fa9e86a6)
 
