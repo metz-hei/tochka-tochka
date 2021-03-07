@@ -2,8 +2,11 @@
 
 ## Из каких этапов состоит мониторинг системы?
 Сбор метрик
+
 Хранение метрик
+
 Визуализация и дашборды
+
 Уведомления и алертинг
 
 ## Какие метрики можно собирать?
@@ -54,9 +57,14 @@
 - Вики: ссылка на вики
 
 # Ссылки
-[Как мы мониторим заказы](../../tochka-tochka/develop/attachments/monitoring-gdematerial.pdf). ГдеМатериал
+[Как мы мониторим заказы](../../../monitoring-gdematerial.pdf). ГдеМатериал
+
 [Как бороться с багами? Часть вторая: отслеживание ошибок](https://bureau.ru/soviet/20180329/). Дизайн-бюро Артёма Горбунова
+
 [Geckoboard](https://www.geckoboard.com)
+
 [Datadog](https://www.datadoghq.com)
+
 [Sentry](https://sentry.io/welcome/)
+
 [UptimeRobot](https://uptimerobot.com)

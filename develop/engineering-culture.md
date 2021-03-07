@@ -17,7 +17,7 @@
 
 Подробно и понятно описывает коммиты:
 
-- [Как коммитить и не быть убитым на почве ненависти.pdf](../../develop/attachments/commit_Nikita_Sivakov_-_Medium.pdf)
+- [Как коммитить и не быть убитым на почве ненависти](../../develop/attachments/commit_Nikita_Sivakov_-_Medium.pdf)
 
 Каждая задача проходит ревью.
 
