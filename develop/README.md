@@ -1,7 +1,7 @@
 # Разработка
 [Есть ли Definition of Ready?](./dor.md)
 
-[Есть ли Definition Of Done?](./dor.md)
+[Есть ли Definition Of Done?](./dod.md)
 
 [Как оцениваются задачи?](./estimate.md)
 
