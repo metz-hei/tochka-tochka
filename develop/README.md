@@ -1,13 +1,13 @@
 # Разработка
 [Есть ли Definition of Ready?](./dor.md)
 
-[Есть ли Definition Of Done?](https://www.notion.so/Definition-Of-Done-97979268cae34f9eb46407d9fa9e86a6)
+[Есть ли Definition Of Done?](./dor.md)
 
-[Как оцениваются задачи?](https://www.notion.so/7e449158ca104291a699bbf0334c32a7)
+[Как оцениваются задачи?](./estimate.md)
 
-[Как боретесь с тех. долгом?](https://www.notion.so/72cfd40170e4473f83d7a02acd965359)
+[Как боретесь с тех. долгом?](./technical-debt.md)
 
-[Как развивается инженерная культура в компании?](https://www.notion.so/3137f02c61a04fb58679796092954bea)
+[Как развивается инженерная культура в компании?](./engineering-culture.md)
 
 [Как организован мониторинг системы?](https://www.notion.so/819b782cbd8144e5a8d24e58e2b0c9ca)
 
