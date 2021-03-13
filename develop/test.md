@@ -1,0 +1,49 @@
+# Тестирование
+
+[Какие тесты](https://bureau.ru/soviet/20191024/) пишутся? Когда пишутся?
+
+Все ли тесты интегрированы в CI/CD?
+
+Какие виды тестирования используются?
+
+- Нагрузочное тестирование.
+    - Объемное тестирование — оценка производительности при увеличении объемов данных в БД.
+    - Тестирование стабильности — работа под нагрузкой длительное время. Проводят перед крупными релизами.
+- Тестирование безопасности. Как часто?
+    - Чек-лист Open Web Application Security Project (OWASP)
+    - Тесты на проникновение (пентесты). Часто заказывают на аутсорсе: Лаборатория Касперского, GroupIB, BiZone
+    - Сканирование: Burp Suite, acunetix, nessus
+    - Файрволы (сканируют трафик): Imperva, F5, Nginx plus, Wallarm, Cloudflare
+- Тесты под разные устройства? Каков парк устройств?
+- Тесты под разные браузеры. Какой браузер целевой?
+- Тестирование локализации.
+- Имитация плохих сетевых условий.
+
+Каков п[роцент покрытия тестами](https://bureau.ru/soviet/20191017/) на бэке и фронте?
+
+Используется ли ручное тестирование?
+
+- Где хранятся тест-кейсы?
+- Каков процент покрытие кейсами?
+- Как и когда проходит регрессионное тестирование? Какие кейсы входят в регресс? Сколько времени занимают прогоны?
+- Когда тестировщики пишут тест-кейсы?
+
+## Инструменты
+
+Фронтовые тесты (UI or E2E):
+
+- Puppeteer
+- [Jest](https://jestjs.io/ru/)
+- [Hermione](https://yandex.ru/dev/hermione/)
+- [Enzyme](https://airbnb.io/enzyme/index.html)
+
+Нагрузочное тестирование:
+
+- JMeter
+- [Яндекс.Танк](https://yandex.ru/dev/tank/)
+
+Тесты под разные устройства:
+
+- [iloveadaptive.com/ru](http://iloveadaptive.com/ru/)
+- [responsively.app](https://responsively.app/)
+- Плагин для Google Chrome: [Responsive Viewer](https://chrome.google.com/webstore/detail/responsive-viewer/inmopeiepgfljkpkidclfgbgbmfcennb?fbclid=IwAR14zjRPQ0O_28xb482xFeCkOAw7LhNc6Y4Yi7KWRTLkF1lWuNcRwMoXEKU)
