@@ -9,11 +9,11 @@
 
 [Как развивается инженерная культура в компании?](./engineeringCulture.md)
 
-[Как организован мониторинг системы?](https://www.notion.so/819b782cbd8144e5a8d24e58e2b0c9ca)
+[Как организован мониторинг системы?](./monitoring.md)
 
-[Как устроен Incident Management?](https://www.notion.so/Incident-Management-0af6227cef174f1a8f85a5e781fa4d42)
+[Как устроен Incident Management?](./incidentManagement.md)
 
-[Тестирование](https://www.notion.so/1daa1c7e5c124d89936fc396ba8db67c)
+[Как устроено тестирование?](./test.md)
 
 [Документация](https://www.notion.so/62567137eac7415faf63d3d4a3777c2c)
 
