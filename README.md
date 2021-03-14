@@ -9,3 +9,5 @@ https://youtu.be/ANrmiJrnkew
 
 Актуализировать ссылки 
 develop/docProjectCharter.md
+
+Отредактировать develop/docReleaseChecklist.md
