@@ -18,7 +18,7 @@
 
 [Unit-экономика](https://www.notion.so/Unit-1fa202447bd345358ecf448203f93d32)
 
-[Roadmap](https://www.notion.so/Roadmap-7bd5f0063a3f4331b9f0bb1e4cd5e288)
+[Roadmap](./docProjectCharterRoadmap.md)
 
 [Состав команды](https://www.notion.so/e284deae0643468fa141f2b1cd848ec1)
 
