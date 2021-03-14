@@ -20,7 +20,7 @@
 
 [Roadmap](./docProjectCharterRoadmap.md)
 
-[Состав команды](https://www.notion.so/e284deae0643468fa141f2b1cd848ec1)
+Состав команды
 
 Оценка времени: PM+BA = 15%, DEV = 55%, QA = 30%
 
