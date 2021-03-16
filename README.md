@@ -14,3 +14,6 @@ https://youtu.be/ANrmiJrnkew
 Отредактировать develop/delete.md
 
 Дать ссылку на таблицу событий develop/developer'sChecklist.md
+
+
+Дать ссылку на регламент в разработке Есть ли регламент движения задач? 
