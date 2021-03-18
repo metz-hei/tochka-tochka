@@ -1,4 +1,4 @@
-# Разработка
+# Вопросы к разработке
 [Есть ли Definition of Ready?](./dor.md)
 
 [Есть ли Definition Of Done?](./dod.md)
