@@ -40,6 +40,10 @@
 
     [Ant Design](https://baseweb.design)
 
+    [Газпром Нефть Consta](http://consta.gazprom-neft.ru/)
+
+    [Каталог отечественных компонентных дизайн-систем](http://designsystemsclub.ru/)
+
 Список и устройство тестовых стендов: доступы, тестовые пользователи
 
 Есть ли SLA (Service Level Agreement / Соглашение об уровне сервиса) на работу системы? Какие метрики для нас важны?
