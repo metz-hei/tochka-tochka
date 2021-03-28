@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Fly to a location</title>
+<meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no">
+<link href="https://api.mapbox.com/mapbox-gl-js/v2.2.0/mapbox-gl.css" rel="stylesheet">
+<script src="https://api.mapbox.com/mapbox-gl-js/v2.2.0/mapbox-gl.js"></script>
+<style>
+body { margin: 0; padding: 0; }
+#map { position: absolute; top: 0; bottom: 0; width: 100%; }
+</style>
+</head>
+<body>
+<style>
+    #fly {
+        display: block;
+        position: relative;
+        margin: 0px auto;
+        width: 50%;
+        height: 40px;
+        padding: 10px;
+        border: none;
+        border-radius: 3px;
+        font-size: 12px;
+        text-align: center;
+        color: #fff;
+        background: #ee8a65;
+    }
+</style>
+<div id="map"></div>
+<br>
+<button id="fly">Fly</button>
+<script>
+	mapboxgl.accessToken = 'pk.eyJ1IjoibWV0emhlaSIsImEiOiJja2cyY2tiaHgxZWNrMnJxZjZ3d21vYWlsIn0.kVbm92P50244g1bNX1aF9Q';
+    var map = new mapboxgl.Map({
+        container: 'map',
+        style: 'mapbox://styles/metzhei/ckmqec56h10tz17o51xclzw8n',
+        center: [34, 57],
+        zoom: 5.8,
+        pitch: 45
+    });
+
+    document.getElementById('fly').addEventListener('click', function () {
+        map.flyTo({
+            center: [59, 58],
+            zoom: 4,
+            speed: 0.4,
+            curve: 1.1,
+            pitch: 40,
+            essential: true
+
+        });
+    });
+</script>
+
+</body>
+</html>
