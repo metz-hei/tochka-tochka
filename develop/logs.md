@@ -34,7 +34,7 @@
 
 [Как тестировать события Гугл Аналитики и Яндекс.Метрики](https://www.it-agency.ru/academy/how-to-test-events/). it-agency
 
-[Карта ивентов и логика параметров](.\attachments\logsEdadeal.png). Едадил
+[Карта ивентов и логика параметров](./attachments/logsEdadeal.png). Едадил
 
 
 ## Ссылки
