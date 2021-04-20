@@ -75,7 +75,7 @@
 * TODO Новый расчет для ПП
 * TODO Отправил Филлатову задачу с ФИО и компаней для отзывов в СГ
 * TODO ГЕО-страницы
-* TODO Оформить задачи https://docs.google.com/document/d/1U6sQ72RgoZ04FUn7pwc6RfMNjWey-5YyNVwVmMLo5jk/edit?usp=sharing
+* TODO Оформить задачи Владение ТС и заполнение ИНН водителя https://docs.google.com/document/d/1U6sQ72RgoZ04FUn7pwc6RfMNjWey-5YyNVwVmMLo5jk/edit?usp=sharing
 * DONE СГ. Мобила
  
 
