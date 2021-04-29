@@ -30,13 +30,13 @@
 
 6. Используется ли таблица событий для логирования действий пользователя, запросов и [UGC](https://skillbox.ru/media/marketing/chto_takoe_ugc_i_zachem_on_nuzhen/)?
 
+
+## Ссылки
+
 [Таблица событий](https://docs.google.com/spreadsheets/d/1gMY-rxefC8zXqLH0ywcN6Eg93EDJS6Vu-gDoKVLw4rc/edit#gid=256167239). it-agency
 
 [Как тестировать события Гугл Аналитики и Яндекс.Метрики](https://www.it-agency.ru/academy/how-to-test-events/). it-agency
 
 [Карта ивентов и логика параметров](./attachments/logsEdadeal.png). Едадил
-
-
-## Ссылки
 
 [Как бороться с багами? Часть четвёртая: логи](https://bureau.ru/soviet/20180412/). Дизайн-бюро Артёма Горбунова
