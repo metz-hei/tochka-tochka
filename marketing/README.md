@@ -4,7 +4,7 @@
 - [Играем с финмоделью](https://youtu.be/5egDLDG3pGY). Максим Ильяхов
 - [Сильный текст в соцсетях](https://www.skillcup.ru/courses/ilyahov_smm). Максим Ильяхов о том, как и для кого писать в соцсетях
 
-[Как приоретизируются задачи для разработки?](../po/prioritization.md)
+[Как приоретизируются задачи для разработки?](../po/prioritization/README.md)
 
 [Есть ли стратегия развития интернет-маркетинга?](https://www.notion.so/d288165051aa48fbb2073097bfd3dadf#8a78d9e7c261446ebbcbfb24be2f240c)
 

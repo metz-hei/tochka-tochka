@@ -14,7 +14,7 @@
 - Time. Затраты времени на разработку (-3)
 - Value. Важность для разработки и продукта (2)
 
-![](.\attachments\ducalis.gif)
+![](../.\attachments\ducalis.gif)
 
 ## Ссылки
 
