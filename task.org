@@ -83,10 +83,10 @@ https://www.loom.com/share/11d82453b9e8427ea4a428ac538ecbae
 [2021-5-11 Tue] - [2021-5-14 Fri]
 * TODO ГЕО-страницы
 * TODO Загрузка файлом
+* TODO Донести до ребят https://docs.google.com/presentation/d/17oqaxyf_0GAjNUdVUtk7SS2NWwuy12nILR05Qccks0A/edit#slide=id.gd9e1ef28f2_1_0
 
 
 [2021-4-26 Mon] - [2021-4-30 Fri]
-* TODO Сделать аккаунты для ГД И Линии и закрыть ЮТ
 * DONE Баг по расчету от Владимира
 * DONE Обновить регламент разработки
 * DONE Письмо от Артема. СГ. Подпись и страница с офертами
