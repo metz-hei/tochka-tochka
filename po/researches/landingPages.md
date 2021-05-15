@@ -40,10 +40,5 @@
 - Комплектация
 - Доставка
 
-## Результат исследования
-[Таблица конверсий](conversionTable.md)
-
-[Таблица с точечными улучшениями](../attachments/tablePointImprovements.jpg)
-
 ## Ссылки
 [Проверенные решения для посадочных страниц](../attachments/provenSolutions.pdf)
