@@ -79,7 +79,8 @@
 
 [2021-6-7 Mon] - [2021-6-11 Tue]
 * TODO Приложение Андроид
-
+* TODO Разобраться https://client.semantica.in/question/view?id=351656
+* TODO Поиск подряда
 
 [2021-5-24 Mon] - [2021-5-28 Fri]
 * DONE Загрузка файлом
