@@ -10,7 +10,7 @@
 
 [Вопросы к поддержке](./support/README.md)
 
-
+[Вопросы для собеседования на позицию менеджера проекта](./job_interview/README.md)
 
 Добавить в документацию Деплоймент гайд
 
@@ -20,6 +20,8 @@
 https://youtu.be/ANrmiJrnkew
 
 
+
+Перенести https://www.notion.so/87fd660bafe147528d15156fee2fe19b
 
 Отредактировать develop/docReleaseChecklist.md
 
