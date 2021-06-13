@@ -49,13 +49,13 @@
 
 - [Редполитики и правила публикации](http://rdpk.ru/)
 
-
-
+[Есть ли схема работы редакции?](https://irinausichenko.ru/blog/all/scheme/) Помогает ли it-отдел с подготовкой материалов?
 
 Пройтись по спискам базовых вопросов из раздела «Исследования»
 
-[https://www.it-agency.ru/academy/content-marketing-agency/](https://www.it-agency.ru/academy/content-marketing-agency/)
+## Ссылки
+[Контент-маркетинг в IT-Agency](https://www.it-agency.ru/academy/content-marketing-agency/)
 
-[https://www.it-agency.ru/academy/mindbox-content-marketing/](https://www.it-agency.ru/academy/mindbox-content-marketing/)
+[Кейс Mindbox: построили систему контент-маркетинга за 3,5 месяца](https://www.it-agency.ru/academy/mindbox-content-marketing/)
 
-[https://vsevolodustinov.ru/blog/all/kak-sdelat-strategiyu-razvitiya-internet-marketinga/](https://vsevolodustinov.ru/blog/all/kak-sdelat-strategiyu-razvitiya-internet-marketinga/)
+[Как сделать стратегию развития интернет-маркетинга](https://vsevolodustinov.ru/blog/all/kak-sdelat-strategiyu-razvitiya-internet-marketinga/)
