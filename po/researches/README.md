@@ -30,6 +30,8 @@
 
 [Анализ сценариев](./scriptAudit.md)
 
+[UX-тестирование посадочных страниц](https://www.it-agency.ru/academy/landing-page-ux/)
+
 
 
 ## Результат исследований
