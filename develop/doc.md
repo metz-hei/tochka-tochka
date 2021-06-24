@@ -26,6 +26,7 @@
 - Есть ли какие-то правила оформления?
 - Кто участвует в подготовке описания?
 - Примеры: [Мегаплан](https://megaplan.ru/news/updates/), [Figma](https://releases.figma.com/), [Контур](https://tech.skbkontur.ru/react-ui/#/Changelog), [Эгея](https://blogengine.ru/features/), [Тинькофф](https://digest.tb.ru), [Notion](https://www.notion.so/What-s-New-157765353f2c4705bd45474e5ba8b46c), [Pixelmator](https://www.pixelmator.com/photo/updates/), [quarkly.io](https://quarkly.io/updates)
+- [Совет: Как рассказать о фиче](./docTellAboutFeature.md)
 
 Есть ли библиотека компонентов?
 
