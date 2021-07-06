@@ -1,14 +1,23 @@
 # Вопросы к маркетологу
 
+
+[Как устроен контент-маркетинг?](https://www.it-agency.ru/academy/content-marketing-agency/)
+
+Кто занимается его развитием?
+
 Есть ли фин. модель контент-маркетинга?
 - [Играем с финмоделью](https://youtu.be/5egDLDG3pGY). Максим Ильяхов
 - [Сильный текст в соцсетях](https://www.skillcup.ru/courses/ilyahov_smm). Максим Ильяхов о том, как и для кого писать в соцсетях
 
+Есть ли роадмап или бэклог для разработки по задачам маркетинга?
+
+[Как вы ищите гипотезы?](../po/researches/README.md)
+
 [Как приоретизируются задачи для разработки?](../po/prioritization/README.md)
 
-[Есть ли стратегия развития интернет-маркетинга?](https://www.notion.so/d288165051aa48fbb2073097bfd3dadf#8a78d9e7c261446ebbcbfb24be2f240c)
+[Есть ли стратегия развития интернет-маркетинга?](https://vsevolodustinov.ru/blog/all/kak-sdelat-strategiyu-razvitiya-internet-marketinga/)
 
-Когда маркетинг узнает о новом функционале? Принимает ли участие в планировании?
+Когда маркетинг узнает о новом функционале? Принимает ли участие в планировании спринтов?
 
 Как вы собираете обратную связь от клиентов?
 
@@ -50,12 +59,3 @@
 - [Редполитики и правила публикации](http://rdpk.ru/)
 
 [Есть ли схема работы редакции?](https://irinausichenko.ru/blog/all/scheme/) Помогает ли it-отдел с подготовкой материалов?
-
-Пройтись по спискам базовых вопросов из раздела «Исследования»
-
-## Ссылки
-[Контент-маркетинг в IT-Agency](https://www.it-agency.ru/academy/content-marketing-agency/)
-
-[Кейс Mindbox: построили систему контент-маркетинга за 3,5 месяца](https://www.it-agency.ru/academy/mindbox-content-marketing/)
-
-[Как сделать стратегию развития интернет-маркетинга](https://vsevolodustinov.ru/blog/all/kak-sdelat-strategiyu-razvitiya-internet-marketinga/)
