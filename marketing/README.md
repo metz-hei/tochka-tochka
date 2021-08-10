@@ -3,6 +3,8 @@
 
 [Как устроен контент-маркетинг?](https://www.it-agency.ru/academy/content-marketing-agency/)
 
+[Как устроено SEO для контента?](https://vc.ru/seo/270019-seo-dlya-kontenta-kak-pisat-stati-chelovecheskim-yazykom-i-popadat-v-top-poiskovoy-vydachi)
+
 Кто занимается его развитием?
 
 Есть ли фин. модель контент-маркетинга?

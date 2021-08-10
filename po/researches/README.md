@@ -32,6 +32,7 @@
 
 [UX-тестирование посадочных страниц](https://www.it-agency.ru/academy/landing-page-ux/)
 
+[Гайд по UX-проблемам](https://www.notion.so/UX-201a004f908842eab159027fe09f245e)
 
 
 ## Результат исследований
