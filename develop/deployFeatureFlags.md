@@ -17,3 +17,5 @@
 [Launch Darkly](https://launchdarkly.com/) — централизованное управление включенностью фич
 
 [Unleash](https://github.com/Unleash/unleash) — то же самое, но бесплатно и self-hosted
+
+[Принцип «чем меньше изменений, тем лучше»](https://bureau.ru/soviet/20210819/)
